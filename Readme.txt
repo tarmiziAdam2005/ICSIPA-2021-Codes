@@ -10,4 +10,5 @@ These are accompanying codes for our conference paper
 
 IEEE International Conference on Signal and Image Processing Applications (ICSIPA) 2021
 
-Titled "A study on staircase artifacts in total variation image restoration".
+Titled "A study on staircase artifacts in total variation image restoration" which can be found here:
+https://ieeexplore.ieee.org/abstract/document/9576763

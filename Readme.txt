@@ -12,3 +12,5 @@ IEEE International Conference on Signal and Image Processing Applications (ICSIP
 
 Titled "A study on staircase artifacts in total variation image restoration" which can be found here:
 https://ieeexplore.ieee.org/abstract/document/9576763
+
+If you happen to use our code, please cite accordingly. Thank you !
